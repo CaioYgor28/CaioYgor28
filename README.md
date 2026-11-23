@@ -1,42 +1,65 @@
 # Caio Ygor
+### Software Developer · Python · REST APIs · Systems Integration
 
-**Software Developer | Python · REST APIs · Systems Integration · Automation**
+I build software that connects systems, automates repetitive work, and makes business operations more reliable.
 
-I'm a software developer based in Brazil. My main focus is building reliable backend integrations and automations that connect business applications, databases, and external services.
+I'm based in Brazil and currently work as an **RPA Developer at Grupo Parvi**. My daily work involves Python, relational databases, enterprise APIs, browser automation, and production troubleshooting. I'm particularly interested in backend development and the engineering decisions that make integrations dependable.
 
-At **Grupo Parvi**, I develop and maintain Python workflows used in day-to-day operations. My work involves REST APIs, webhooks, SQL, browser automation, JSON/XML data processing, and troubleshooting production issues. I care about clear logs, safe retries, checkpoints, and preventing duplicate processing.
+**[Portfolio](https://portfolio-caio-ygor.pages.dev/)** · **[LinkedIn](https://www.linkedin.com/in/caio-silva-4078b3201/)** · **[Email](mailto:CaioYgor28@outlook.com)**
 
-## What I work with
+---
 
-- **Backend and integrations:** Python, Go, REST APIs, webhooks, PostgreSQL, SQL Server
-- **Automation:** Selenium, HTTP integrations, scheduled workflows, data validation
-- **Web development:** TypeScript, JavaScript, React, Django
-- **Delivery and operations:** Git, Docker, Jenkins, GitLab, AWS
+## What I do
 
-## Selected projects
+| Area | Focus |
+| --- | --- |
+| **Backend & integration** | Python, REST APIs, webhooks, request validation, JSON/XML processing, Go |
+| **Databases & automation** | PostgreSQL, SQL Server, Selenium, scheduled workflows, data processing |
+| **Web development** | React, TypeScript, JavaScript, Django |
+| **Delivery & reliability** | Git, Docker, Jenkins, CI/CD, checkpoints, retries, operational logging |
 
-**RetailOps — Retail Operations Platform**  
-A collaborative project with a Go REST API, a React management dashboard, and a React Native / Expo mobile app. It explores device pairing, product data, barcode scanning, and offline-first workflows.  
-*Co-developed with Andrew Benvenuto. Source repositories are currently private.*
+I enjoy solving problems that sit between applications: authentication, data consistency, API failures, duplicate processing, and recovery after interrupted jobs.
 
-**Wedding Management Platform — Archived Case Study**  
-A full-stack application built for a real event, covering RSVP, a gift registry, payments through Mercado Pago, transactional email with Resend, and administrative access controls. Built with React, TypeScript, Hono, and SQLite. The original website was decommissioned after the event; guest and transaction data remain private.
+## Selected work
 
-**Igreja VEM — Full-Stack Proof of Concept**  
-A church management proof of concept covering members, groups, events, content, and access control, using Django, PostgreSQL, React, and TypeScript.
+### RetailOps — Retail Operations Platform
+**Go · PostgreSQL · React · TypeScript · React Native · Expo · SQLite**
 
-**[Python RPA Challenge](https://github.com/CaioYgor28/DesafioParvi)**  
-A Python automation project involving Selenium, data processing, and email reporting.
+A three-part platform that combines a Go API, a web dashboard, and an Android collector. The system includes product data, device pairing, barcode/QR scanning, and offline data capture with synchronization.
 
-You can find project overviews and more about my work on my **[portfolio website](https://portfolio-caio-ygor.pages.dev/)**.
+*Co-developed with Andrew Benvenuto. The original repositories are private; the architecture is described in my [portfolio](https://portfolio-caio-ygor.pages.dev/).*
 
-## Background
+### Wedding Management Platform — Archived Case Study
+**React · TypeScript · Hono · SQLite · Mercado Pago · Resend**
 
-- **Current role:** RPA Developer at Grupo Parvi
-- **Education:** Systems Analysis and Development, Tiradentes University (UNIT) — in progress
-- **Location:** Brazil
-- **Interests:** Backend engineering, integration architecture, reliable automation, and international software development opportunities
+A full-stack platform built for a real event. It included RSVP management, a gift registry, payments, transactional email, and an administrative dashboard. The original deployment was retired after the event.
 
-## Connect
+*The source code remains private. Personal guest and transaction data are not published.*
 
-[LinkedIn](https://www.linkedin.com/in/caio-silva-4078b3201/) · [Portfolio](https://portfolio-caio-ygor.pages.dev/) · [Email](mailto:CaioYgor28@outlook.com)
+### Igreja VEM — Full-Stack Proof of Concept
+**Django · PostgreSQL · React · TypeScript**
+
+A proof of concept for member, group, event, content, and role-based access management. This is a prototype, not a public production service.
+
+### [Python RPA Challenge](https://github.com/CaioYgor28/DesafioParvi)
+**Python · Selenium · pandas · CSV · SMTP**
+
+An automation exercise that collects website data, prepares a CSV report, performs basic analysis, and emails a report.
+
+## More repositories
+
+- **[CS50 Python Exercises](https://github.com/CaioYgor28/CS50-Python)** — practice problems covering Python fundamentals.
+- **[Jardim Viver — Android CRUD App](https://github.com/CaioYgor28/pas-programacao-dispositivos-moveis)** — academic Java/Android project with SQLite persistence.
+- **[Portfolio source](https://github.com/CaioYgor28/portfolio-caio-ygor)** — the React/TypeScript site linked above.
+
+## Experience & learning
+
+- **2026–present:** RPA Developer, Grupo Parvi — enterprise automation and systems integration.
+- **2025:** RPA Development Intern, Grupo Parvi.
+- **Education:** Systems Analysis and Development, Universidade Tiradentes (UNIT) — **in progress**.
+
+I'm building depth in backend software engineering, practical system design, and English-language collaboration, with an interest in international opportunities.
+
+---
+
+**Let's connect:** [LinkedIn](https://www.linkedin.com/in/caio-silva-4078b3201/) · [Portfolio](https://portfolio-caio-ygor.pages.dev/) · [Email](mailto:CaioYgor28@outlook.com)
